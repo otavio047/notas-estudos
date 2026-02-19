@@ -8,9 +8,9 @@ markdown
 
 para utilizar o git na minha maquina eu preciso configurar determinados comandos, semdo eles 
 
-´´´bash 
+```bash 
 git config --blobal
-´´´ 
+```
 
 ## como configurar o git 
 
